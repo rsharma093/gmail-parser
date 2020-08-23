@@ -10,10 +10,18 @@ Create an Application to pull emails from mailbox and parse them to extract some
 * Save extracted information in the database table.
 * Make the application extendible so that we can use it to extract/parse information from different kinds of emails coming from different email id.
 
+
 ## Enable IMAP in gmail settings.
-![alt text]((https://github.com/rsharma093/gmail_parser_apis/blob/master/Gmail_Parser.postman_collection.json))
+
+![alt text](https://github.com/rsharma093/gmail_parser_apis/blob/master/project/resources/enable-imap.png?raw=true)
+
 ## Turn on less secure app settings.
+
+![alt text](https://github.com/rsharma093/gmail_parser_apis/blob/master/project/resources/gmail-allow-less-secure-apps.png?raw=true)
+
+
 [click here](https://myaccount.google.com/lesssecureapps) to turn on.
+
 
 ## Building
 Install Redis

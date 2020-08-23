@@ -194,4 +194,4 @@ Content-Type: application/json
 ```
  
 ## Postman Collection
-Please check the [postman collection](https://www.getpostman.com/collections/f379e38f7d5698097c00]) to run APIs.
+Please check the [postman collection](https://github.com/rsharma093/gmail_parser_apis/blob/master/Gmail_Parser.postman_collection.json) to run APIs.

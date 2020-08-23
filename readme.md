@@ -185,7 +185,7 @@ Content-Type: application/json
             "body": "Email: abc@gmail.com\r\n\r\n----------------------------------------------------------\r\n\r\nNumber of submissions received\r\n\r\n15/500 this month\r\n\r\nJuly 17th – August 16th\r\n\r\n\r\n--",
             "date": "2020-08-23T13:19:31+05:30",
             "parsed_body_content": {
-                "phone": null
+                "phone": null,
                 "email": "abc@gmail.com"
             },
             "account": 15
